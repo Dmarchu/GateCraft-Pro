@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="GateCraftPro:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GateCraftPro_jar</output-path>
+    <root id="archive" name="GateCraftPro.jar">
+      <element id="module-output" name="GateCraftPro" />
+      <element id="module-source" name="GateCraftPro" />
+      <element id="directory" name="src">
+        <element id="directory" name="mainDir">
+          <element id="dir-copy" path="$PROJECT_DIR$/src/mainDir" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
